@@ -1,0 +1,1 @@
+Secret Santa e-mailer for PHP.
